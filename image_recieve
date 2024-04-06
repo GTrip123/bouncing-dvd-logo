@@ -1,1 +1,1 @@
-<recieve image from "https://bouncingdvdlogo.com/logos/dvdlogo-01.svg">
+var img = new Image(https://bouncingdvdlogo.com/logos/dvdlogo-01.svg)
